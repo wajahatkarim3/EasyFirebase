@@ -6,3 +6,4 @@ An easy to use wrapper around Firebase APIs using Kotlin and DSL features
 ## Supported Features
 * Cloud Firestore
 * Realtime Firebase Database
+* Firebase Storage
